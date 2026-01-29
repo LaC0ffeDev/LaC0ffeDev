@@ -6,8 +6,8 @@ Atualmente estou aprendendo e aprimorando minhas habilidades através de estudos
 
  <div>
    <a href="https://github.com/LaC0ffeDev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaC0ffeDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaC0ffeDev&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaC0ffeDev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaC0ffeDev&layout=compact&langs_count=6&theme=great-gatsby"/>
 </div>
     
 <div style="display: inline_block"><br>
